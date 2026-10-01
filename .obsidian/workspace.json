@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -252,11 +253,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1dc9bc2ca77e4b34",
+  "active": "d70a85fba8404fa6",
   "lastOpenFiles": [
+    "Attachments/{0701ED17-DACD-48B7-875A-B36ECFEF8CD0}.png",
+    "Attachments/{6451B08A-C245-4B90-9E69-D6F088DA251E}.png",
+    "Excalidraw/Drawing 2026-10-01 19.22.59.excalidraw.md",
+    "Education/Phisics/Phisics Bohan Sukkot prep.md",
     "Attachments/{307B2BA6-9B51-4543-ACEF-8276BB50B039}.png",
     "Attachments/{A9F8F43B-A04D-4BF1-8F97-F685456FBB54}.png",
-    "Education/Phisics/Phisics Bohan Sukkot prep.md",
     "Attachments",
     "Attachments/{8F45BF68-F1FC-4108-A6C0-EA977661DAE4}.png",
     "Attachments/{6FE96A23-B863-4A4C-89E3-DC81A6BBEC07}.png",
@@ -288,7 +292,6 @@
     "Templates/Reference Template.md",
     "Templates/Course Template.md",
     "Templates/Book Template.md",
-    "Daily/2026-02-04 Pentest studying.md",
     "Programming/Пентест",
     "Словарь/OffSec PEN",
     "Dictionaries",
