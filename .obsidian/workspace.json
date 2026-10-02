@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f87b82b06f68c7dc",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc9bc2ca77e4b34",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -175,8 +175,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -253,12 +253,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d70a85fba8404fa6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
+    "Attachments/{12519CE3-2C00-41E5-81FE-2AC008428F02}.png",
+    "Education/Phisics/Phisics Bohan Sukkot prep.md",
     "Attachments/{0701ED17-DACD-48B7-875A-B36ECFEF8CD0}.png",
     "Attachments/{6451B08A-C245-4B90-9E69-D6F088DA251E}.png",
     "Excalidraw/Drawing 2026-10-01 19.22.59.excalidraw.md",
-    "Education/Phisics/Phisics Bohan Sukkot prep.md",
     "Attachments/{307B2BA6-9B51-4543-ACEF-8276BB50B039}.png",
     "Attachments/{A9F8F43B-A04D-4BF1-8F97-F685456FBB54}.png",
     "Attachments",
