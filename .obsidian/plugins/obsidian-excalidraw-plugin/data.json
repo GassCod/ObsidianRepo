@@ -181,16 +181,16 @@
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
-      "strokeWidth": 0,
+      "strokeWidth": 0.1,
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
-        "constantPressure": false,
+        "constantPressure": true,
         "hasOutline": false,
-        "outlineWidth": 1,
+        "outlineWidth": 0,
         "options": {
           "thinning": 0.6,
-          "smoothing": 0.5,
+          "smoothing": 0,
           "streamline": 0.5,
           "easing": "easeOutSine",
           "start": {
@@ -209,8 +209,6 @@
     {
       "type": "highlighter",
       "freedrawOnly": true,
-      "strokeColor": "#FFC47C",
-      "backgroundColor": "#FFC47C",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "roughness": null,
@@ -235,7 +233,9 @@
             "easing": "linear"
           }
         }
-      }
+      },
+      "backgroundColor": "#ff3d3d",
+      "strokeColor": "#ff3d3d"
     },
     {
       "type": "finetip",
@@ -486,7 +486,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 2,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,

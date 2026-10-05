@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Education/Phisics/Phisics Bohan Sukkot prep.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Phisics Bohan Sukkot prep"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -215,8 +213,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -227,6 +225,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "70125e3a42bed62c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -253,8 +261,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d70a85fba8404fa6",
   "lastOpenFiles": [
+    "Education/History/Class work/5.10.26.md",
+    "Excalidraw",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
     "Attachments/{12519CE3-2C00-41E5-81FE-2AC008428F02}.png",
     "Education/Phisics/Phisics Bohan Sukkot prep.md",
@@ -280,7 +290,6 @@
     "Excalidraw/Drawing 2026-10-01 12.54.05.excalidraw.md",
     "Education/Math",
     "Education/Math/HomeWorkSukkot.md",
-    "Excalidraw",
     "С.md",
     "Dictionaries/Main Dictionary Page.md",
     "Conclusion.md",
@@ -297,7 +306,6 @@
     "Programming/Пентест",
     "Словарь/OffSec PEN",
     "Dictionaries",
-    "Cache/1710456902IPGIPLPIFG.jpg",
     "Education/Статьи и сайты/2026",
     "Education/Статьи и сайты",
     "Programming/Пентест/OffSec PEN",
