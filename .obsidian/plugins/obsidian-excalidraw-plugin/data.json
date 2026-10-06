@@ -185,7 +185,7 @@
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
-        "constantPressure": true,
+        "constantPressure": false,
         "hasOutline": false,
         "outlineWidth": 0,
         "options": {
