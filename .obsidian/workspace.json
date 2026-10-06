@@ -13,26 +13,23 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Education/Math/Home work/HomeWorkSukkot.md"
+                "file": "Excalidraw/Drawing 2026-10-06 18.03.53.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "HomeWorkSukkot"
+              "title": "Drawing 2026-10-06 18.03.53.excalidraw"
             }
           },
           {
-            "id": "de4e30de4ca61a97",
+            "id": "06252b52d825092e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Education/Math/Class work/6.10.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "6.10.26"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2026/Февраль.md",
+                "file": "Education/Math/Class work/6.10.26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Февраль"
+              "title": "Backlinks"
             }
           },
           {
@@ -276,11 +273,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de4e30de4ca61a97",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-10-06 18.03.53.excalidraw.md",
+    "Education/Russian/Class work/6.10.26.md",
+    "Education/Russian/Class work",
+    "Education/Russian/Home work",
+    "Education/Russian",
+    "Education/Math/Class work/6.10.26.md",
+    "Excalidraw/Drawing 2026-10-06 14.56.19.excalidraw.md",
     "Education/Math/Class work",
     "Education/Math/Home work/HomeWorkSukkot.md",
-    "Education/Math/Class work/6.10.26.md",
     "Education/English/Class work/6.10.26.md",
     "Education/History/Class work/5.10.26.md",
     "Excalidraw",
@@ -316,14 +319,8 @@
     "Formatting/Table.md",
     "Formatting/Format your notes.md",
     "Templates/Dictionary template.md",
-    "Templates/Default Template.md",
-    "Templates/Daily Template.md",
     "Programming/Пентест",
     "Словарь/OffSec PEN",
-    "Dictionaries",
-    "Education/Статьи и сайты/2026",
-    "Education/Статьи и сайты",
-    "Programming/Пентест/OffSec PEN",
     "Untitled.canvas"
   ]
 }
