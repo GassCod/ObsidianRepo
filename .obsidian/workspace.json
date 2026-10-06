@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Education/History/Class work/4.10.26.md"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "excalidraw-icon",
+              "title": "4.10.26"
             }
           }
         ]
@@ -83,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -255,24 +252,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d70a85fba8404fa6",
+  "active": "0c6d9c9e54902079",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2026-10-06 14.56.19.excalidraw.md",
+    "Education/Phisics/Class work/4.10.26.md",
+    "Education/Phisics/Class work/5.10.26.md",
+    "Education/History/Class work/4.10.26.md",
     "Excalidraw/5 Vishnevi Sad questions.md",
     "Education/Russian/Class work/6.10.26.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2026-10-06 14.56.19.excalidraw.md",
     "Education/Russian/Class work",
     "Education/Russian",
     "Education/Phisics/Home work/Phisics Bohan Sukkot prep.md",
     "Education/Phisics/Home work",
-    "Education/Phisics/Class work/4.10.26.md",
     "Education/Phisics/Class work",
     "Education/Math/Home work/HomeWorkSukkot.md",
     "Education/Math/Home work",
     "Education/Math/Class work/6.10.26.md",
     "Education/Math/Class work",
-    "Education/History/Class work/5.10.26.md",
-    "Education/History/Class work/4.10.26.md",
     "Education/History/Class work",
     "Education/History",
     "Education/English/Class work/6.10.26.md",
