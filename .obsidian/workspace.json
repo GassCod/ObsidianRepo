@@ -11,10 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Education/English/Class work/6.10.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "6.10.26"
             }
           }
         ]
@@ -263,6 +265,7 @@
   },
   "active": "d70a85fba8404fa6",
   "lastOpenFiles": [
+    "Education/English/Class work/6.10.26.md",
     "Education/History/Class work/5.10.26.md",
     "Excalidraw",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
@@ -302,7 +305,6 @@
     "Templates/Planner Template.md",
     "Templates/Reference Template.md",
     "Templates/Course Template.md",
-    "Templates/Book Template.md",
     "Programming/Пентест",
     "Словарь/OffSec PEN",
     "Dictionaries",
