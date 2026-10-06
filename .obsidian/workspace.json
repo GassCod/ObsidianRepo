@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Education/Phisics/Phisics Bohan Sukkot prep.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Phisics Bohan Sukkot prep"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -253,11 +251,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d70a85fba8404fa6",
   "lastOpenFiles": [
+    "Education/Phisics/Phisics Bohan Sukkot prep.md",
+    "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
     "Attachments/{12519CE3-2C00-41E5-81FE-2AC008428F02}.png",
-    "Education/Phisics/Phisics Bohan Sukkot prep.md",
     "Attachments/{0701ED17-DACD-48B7-875A-B36ECFEF8CD0}.png",
     "Attachments/{6451B08A-C245-4B90-9E69-D6F088DA251E}.png",
     "Excalidraw/Drawing 2026-10-01 19.22.59.excalidraw.md",
@@ -267,7 +266,6 @@
     "Attachments/{8F45BF68-F1FC-4108-A6C0-EA977661DAE4}.png",
     "Attachments/{6FE96A23-B863-4A4C-89E3-DC81A6BBEC07}.png",
     "Attachments/{8239462C-2F1D-4EA6-B7F0-03B05B46BF41}.png",
-    "Attachments/{5384B8DA-B7BF-449A-9114-3F4B0D113579}.png",
     "Excalidraw/Drawing 2026-10-01 17.20.22.excalidraw.md",
     "Untitled.md",
     "Initialize a new repo.md",
@@ -297,7 +295,6 @@
     "Programming/Пентест",
     "Словарь/OffSec PEN",
     "Dictionaries",
-    "Cache/1710456902IPGIPLPIFG.jpg",
     "Education/Статьи и сайты/2026",
     "Education/Статьи и сайты",
     "Programming/Пентест/OffSec PEN",
