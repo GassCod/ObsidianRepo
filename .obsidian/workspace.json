@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Education/History/Class work/4.10.26.md"
+                "file": "Education/Math/Home work/7.10.26.md"
               },
               "icon": "excalidraw-icon",
-              "title": "4.10.26"
+              "title": "7.10.26"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -252,15 +253,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c6d9c9e54902079",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Education/Math/Home work/7.10.26.md",
+    "Education/Math/Class work/6.10.26.md",
+    "Education/Russian/Class work/6.10.26.md",
+    "Education/Russian/Class work/5 Vishnevi Sad questions.md",
+    "Education/History/Class work/4.10.26.md",
     "Education/Phisics/Class work/4.10.26.md",
     "Education/Phisics/Class work/5.10.26.md",
-    "Education/History/Class work/4.10.26.md",
-    "Excalidraw/5 Vishnevi Sad questions.md",
-    "Education/Russian/Class work/6.10.26.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2026-10-06 14.56.19.excalidraw.md",
     "Education/Russian/Class work",
     "Education/Russian",
     "Education/Phisics/Home work/Phisics Bohan Sukkot prep.md",
@@ -268,7 +270,6 @@
     "Education/Phisics/Class work",
     "Education/Math/Home work/HomeWorkSukkot.md",
     "Education/Math/Home work",
-    "Education/Math/Class work/6.10.26.md",
     "Education/Math/Class work",
     "Education/History/Class work",
     "Education/History",
