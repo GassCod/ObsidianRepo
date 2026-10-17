@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Education/Math/Home work/7.10.26.md"
+                "file": "Education/Russian/Class work/5 Vishnevi Sad questions.md"
               },
               "icon": "excalidraw-icon",
-              "title": "7.10.26"
+              "title": "5 Vishnevi Sad questions"
+            }
+          },
+          {
+            "id": "5fb71bac280be49d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Education/Russian/Home work/Drawing 2026-10-17 21.17.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-17 21.17.52.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -253,12 +265,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5fb71bac280be49d",
   "lastOpenFiles": [
+    "Education/Russian/Class work/5 Vishnevi Sad questions.md",
+    "Education/Russian/Home work/Drawing 2026-10-17 21.17.52.excalidraw.md",
+    "Education/Russian/Home work",
     "Education/Math/Home work/7.10.26.md",
     "Education/Math/Class work/6.10.26.md",
     "Education/Russian/Class work/6.10.26.md",
-    "Education/Russian/Class work/5 Vishnevi Sad questions.md",
     "Education/History/Class work/4.10.26.md",
     "Education/Phisics/Class work/4.10.26.md",
     "Education/Phisics/Class work/5.10.26.md",
@@ -276,7 +290,6 @@
     "Education/English/Class work/6.10.26.md",
     "Education/English/Class work/4.10.26.md",
     "Education/English/Class work",
-    "Education/English",
     "Education/Phisics/Phisics Bohan Sukkot prep.md",
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
@@ -299,8 +312,6 @@
     "Daily/2024-04-10 продуктивность.md",
     "Excalidraw/Drawing 2026-10-01 12.54.05.excalidraw.md",
     "Education/Math/HomeWorkSukkot.md",
-    "С.md",
-    "Dictionaries/Main Dictionary Page.md",
     "Untitled.canvas"
   ]
 }
