@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -272,8 +276,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d70a85fba8404fa6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "School/Math/Home work/7.10.26.md",
+    "conflict-files-obsidian-git.md",
+    "School/Russian/Class work/5 Vishnevi Sad questions.md",
+    "Education/Russian/Home work/Drawing 2026-10-17 21.17.52.excalidraw.md",
+    "Education/Russian/Home work",
+    "Education/Russian",
     "Education/Math/Home work/HomeWorkSukkot.md",
     "Education/Math/Class work/7.10.26.md",
     "Education/Math/Class work/6.10.26.md",
@@ -290,10 +300,7 @@
     "School/Lashon/Class work/8.10.26.md",
     "Attachments/Pasted Image 20261008100801_919.png",
     "School/Lashon/Home work",
-    "School/Lashon/Class work",
-    "School/Lashon",
     "School/Math/Class work/7.10.26.md",
-    "conflict-files-obsidian-git.md",
     "School/Phisics/Class work/5.10.26.md",
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Excalidraw/Drawing 2026-10-07 09.37.45.excalidraw.md",
@@ -317,9 +324,6 @@
     "Untitled.md",
     "Initialize a new repo.md",
     "Excalidraw/Drawing 2026-10-01 16.38.27.excalidraw.md",
-    "Plugins make Obsidian special for you.md",
-    "Untitled Kanban.md",
-    "Dictionaries/OffSec PEN Dictionary.md",
     "Untitled.canvas"
   ]
 }
