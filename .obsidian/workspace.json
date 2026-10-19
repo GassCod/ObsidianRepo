@@ -11,28 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Education/Russian/Class work/5 Vishnevi Sad questions.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "5 Vishnevi Sad questions"
-            }
-          },
-          {
-            "id": "5fb71bac280be49d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Education/Russian/Home work/Drawing 2026-10-17 21.17.52.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-17 21.17.52.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fb71bac280be49d",
+  "active": "d70a85fba8404fa6",
   "lastOpenFiles": [
     "Education/Russian/Class work/5 Vishnevi Sad questions.md",
     "Education/Russian/Home work/Drawing 2026-10-17 21.17.52.excalidraw.md",
