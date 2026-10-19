@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Phisics/Class work/18-19.10.26.md"
+                "file": "School/Phisics/Class work/19.10.26.md"
               },
               "icon": "excalidraw-icon",
-              "title": "18-19.10.26"
+              "title": "19.10.26"
+            }
+          },
+          {
+            "id": "9464c09fe433e8d7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Polotentse s petuhom voprosi.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Polotentse s petuhom voprosi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,10 +288,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9464c09fe433e8d7",
   "lastOpenFiles": [
-    "School/Phisics/Class work/18-19.10.26.md",
     "School/Phisics/Class work/19.10.26.md",
+    "Excalidraw/Polotentse s petuhom voprosi.md",
+    "School/Phisics/Class work/18-19.10.26.md",
     "School/English/Class work/19.10.26.md",
     "School/Math/Home work/7.10.26.md",
     "School/Math/Class work/7.10.26.md",
@@ -322,7 +336,6 @@
     "Attachments/{8F45BF68-F1FC-4108-A6C0-EA977661DAE4}.png",
     "Attachments/{6FE96A23-B863-4A4C-89E3-DC81A6BBEC07}.png",
     "Excalidraw/Drawing 2026-10-01 17.20.22.excalidraw.md",
-    "Untitled.md",
     "Untitled.canvas"
   ]
 }
