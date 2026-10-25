@@ -11,10 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Math/Class work/7.10.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "7.10.26"
             }
           }
         ]
@@ -79,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -255,6 +256,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "91d66ac61440684d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
@@ -283,15 +294,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65499abe55ad3bb0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "School/Math/Class work/Sidra Andasit.md",
     "School/Phisics/Class work/Cohot.md",
+    "School/Phisics/Class work/Piruk vektor.md",
     "Excalidraw/Gubka bob.md",
     "School/Phisics/Class work/18-19.10.26.md",
     "School/Phisics/Class work/5.10.26.md",
-    "School/Phisics/Class work/Piruk vektor.md",
     "Excalidraw/Drawing 2026-10-21 12.22.09.excalidraw.md",
-    "School/Math/Class work/Sidra Andasit.md",
     "School/Math/Class work/7.10.26.md",
     "School/Math/Home work/19.10.26.md",
     "School/Russian/Home work/Полотенце с петухом вопросы.md",
