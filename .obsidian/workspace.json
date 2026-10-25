@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-10-21 12.22.09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-21 12.22.09.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -185,8 +183,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -195,8 +193,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -235,8 +233,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -249,6 +247,16 @@
               },
               "icon": "lucide-info",
               "title": "File properties"
+            }
+          },
+          {
+            "id": "7076b81c0aa96cf0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -275,17 +283,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d70a85fba8404fa6",
+  "active": "65499abe55ad3bb0",
   "lastOpenFiles": [
+    "School/Phisics/Class work/Cohot.md",
+    "Excalidraw/Gubka bob.md",
+    "School/Phisics/Class work/18-19.10.26.md",
+    "School/Phisics/Class work/5.10.26.md",
+    "School/Phisics/Class work/Piruk vektor.md",
     "Excalidraw/Drawing 2026-10-21 12.22.09.excalidraw.md",
     "School/Math/Class work/Sidra Andasit.md",
     "School/Math/Class work/7.10.26.md",
     "School/Math/Home work/19.10.26.md",
     "School/Russian/Home work/Полотенце с петухом вопросы.md",
     "School/Russian/Class work/6.10.26.md",
-    "School/Phisics/Class work/18-19.10.26.md",
     "School/Math/Home work/7.10.26.md",
-    "School/Phisics/Class work/19.10.26.md",
     "School/English/Class work/19.10.26.md",
     "Excalidraw",
     "conflict-files-obsidian-git.md",
@@ -312,12 +323,9 @@
     "Education/English",
     "School/Lashon/Class work/8.10.26.md",
     "Attachments/Pasted Image 20261008100801_919.png",
-    "School/Phisics/Class work/5.10.26.md",
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "School/Math/Home work/HomeWorkSukkot.md",
     "Excalidraw/5 Vishnevi Sad questions.md",
-    "School/Math/Class work/6.10.26.md",
-    "School/English/Class work/6.10.26.md",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
     "Attachments/{12519CE3-2C00-41E5-81FE-2AC008428F02}.png",
     "Attachments/{0701ED17-DACD-48B7-875A-B36ECFEF8CD0}.png",
