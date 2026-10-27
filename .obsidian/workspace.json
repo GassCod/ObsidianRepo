@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -252,6 +256,15 @@
   },
   "active": "d70a85fba8404fa6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "School/Phisics/Class work/Piruk vektor.md",
+    "School/Phisics/Class work/Cohot.md",
+    "School/Math/Home work/19.10.26.md",
+    "School/Math/Class work/Sidra classwork.md",
+    "School/Math/Class work/Sidra Andasit.md",
+    "Excalidraw/Tanah classroom work 20.10.md",
+    "Excalidraw/Gubka bob.md",
+    "Excalidraw/Drawing 2026-10-26 10.48.19.excalidraw.md",
     "School/Math/Class work/19.10.26.md",
     "School/Russian/Home work",
     "Attachments/photo_5958611252089131359_y.jpg",
@@ -260,7 +273,6 @@
     "School/Russian/Class work/5 Vishnevi Sad questions.md",
     "School/Russian/Home work/Полотенце с петухом вопросы.md",
     "Education/Russian/Home work/Drawing 2026-10-17 21.17.52.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "School/Russian/Class work/6.10.26.md",
     "School/Russian/Class work",
     "School/Russian",
@@ -283,14 +295,7 @@
     "School/Lashon/Class work",
     "School/History/Class work/4.10.26.md",
     "School/English/Class work/6.10.26.md",
-    "School/English/Class work/4.10.26.md",
-    "School/English/Class work/19.10.26.md",
     "Attachments/Pasted Image 20261008100801_919.png",
-    "Education/Russian/Class work/5 Vishnevi Sad questions.md",
-    "Education/Math/Home work/7.10.26.md",
-    "Education/Math/Class work/6.10.26.md",
-    "Education/Russian/Class work/6.10.26.md",
-    "Education/History/Class work/4.10.26.md",
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
     "Attachments/{12519CE3-2C00-41E5-81FE-2AC008428F02}.png",

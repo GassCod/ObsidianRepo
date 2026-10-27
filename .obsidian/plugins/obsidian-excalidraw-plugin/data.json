@@ -234,26 +234,26 @@
           }
         }
       },
-      "backgroundColor": "#ff3d3d",
-      "strokeColor": "#ff3d3d"
+      "backgroundColor": "#04ff00",
+      "strokeColor": "#04ff00"
     },
     {
-      "type": "finetip",
-      "freedrawOnly": false,
-      "strokeColor": "#3E6F8D",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
-      "strokeWidth": 0.5,
-      "roughness": 0,
+      "type": "highlighter",
+      "freedrawOnly": true,
+      "strokeColor": "#ff0000",
+      "backgroundColor": "#ff0000",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": null,
       "penOptions": {
-        "highlighter": false,
-        "hasOutline": false,
-        "outlineWidth": 1,
+        "highlighter": true,
+        "hasOutline": true,
+        "outlineWidth": 4,
         "constantPressure": true,
         "options": {
-          "smoothing": 0.4,
-          "thinning": -0.5,
-          "streamline": 0.4,
+          "smoothing": 0.5,
+          "thinning": 1,
+          "streamline": 0.5,
           "easing": "linear",
           "start": {
             "taper": 5,
@@ -269,30 +269,30 @@
       }
     },
     {
-      "type": "fountain",
-      "freedrawOnly": false,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
-      "fillStyle": "hachure",
+      "type": "highlighter",
+      "freedrawOnly": true,
+      "strokeColor": "#fbff05",
+      "backgroundColor": "#fbff05",
+      "fillStyle": "solid",
       "strokeWidth": 2,
-      "roughness": 0,
+      "roughness": null,
       "penOptions": {
-        "highlighter": false,
-        "constantPressure": false,
-        "hasOutline": false,
-        "outlineWidth": 1,
+        "highlighter": true,
+        "constantPressure": true,
+        "hasOutline": true,
+        "outlineWidth": 4,
         "options": {
-          "smoothing": 0.2,
-          "thinning": 0.6,
-          "streamline": 0.2,
-          "easing": "easeInOutSine",
+          "smoothing": 0.5,
+          "thinning": 1,
+          "streamline": 0.5,
+          "easing": "linear",
           "start": {
-            "taper": 150,
+            "taper": 5,
             "cap": true,
             "easing": "linear"
           },
           "end": {
-            "taper": 1,
+            "taper": 5,
             "cap": true,
             "easing": "linear"
           }
@@ -486,7 +486,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 2,
+  "numberOfCustomPens": 4,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
