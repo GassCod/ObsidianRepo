@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7f9c2d85feaa4d9e",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f9ca1816f966d29c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Russian/Home work/Drawing 2026-10-27 20.44.47.excalidraw.md"
+                "file": "School/Math/Home work/19.10.26.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-27 20.44.47.excalidraw"
+              "title": "19.10.26"
+            }
+          },
+          {
+            "id": "72057ccbf301f94a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Istabrut bagrut homework lehagasha.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Istabrut bagrut homework lehagasha"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -252,21 +266,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9ca1816f966d29c",
+  "active": "72057ccbf301f94a",
   "lastOpenFiles": [
+    "School/Math/Home work/19.10.26.md",
+    "Excalidraw/Istabrut bagrut homework lehagasha.md",
+    "Excalidraw/Drawing 2026-10-29 22.42.16.excalidraw.md",
+    "School/Math/Class work/6.10.26.md",
+    "School/Math/Home work/7.10.26.md",
+    "School/Math/Class work/7.10.26.md",
+    "School/Math/Class work/Sidra classwork.md",
+    "Excalidraw/Gubka bob.md",
+    "School/Math/Class work/Sidra Andasit.md",
+    "Excalidraw/Tanah classroom work 20.10.md",
     "School/Russian/Home work/Drawing 2026-10-27 20.44.47.excalidraw.md",
     "School/Russian/Home work/Drawing 2026-10-26 10.48.19.excalidraw.md",
-    "School/Math/Class work/Sidra classwork.md",
-    "School/Math/Class work/7.10.26.md",
-    "School/Math/Home work/19.10.26.md",
-    "School/Math/Home work/7.10.26.md",
-    "School/Math/Class work/6.10.26.md",
-    "School/Math/Class work/Sidra Andasit.md",
     "conflict-files-obsidian-git.md",
     "School/Phisics/Class work/Piruk vektor.md",
     "School/Phisics/Class work/Cohot.md",
-    "Excalidraw/Tanah classroom work 20.10.md",
-    "Excalidraw/Gubka bob.md",
     "School/Math/Class work/19.10.26.md",
     "School/Russian/Home work",
     "Attachments/photo_5958611252089131359_y.jpg",
@@ -290,9 +306,7 @@
     "School/Math/Home work",
     "School/Math/Class work",
     "School/Math",
-    "School/Lashon/Class work/8.10.26.md",
     "School/Lashon/Class work",
-    "School/History/Class work/4.10.26.md",
     "Attachments/Pasted Image 20261008100801_919.png",
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
