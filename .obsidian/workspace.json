@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Phisics/Class work/Cohot.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Cohot"
-            }
-          },
-          {
-            "id": "8e1a26142ee03375",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Phisics/Class work/Cohot.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Cohot"
-            }
-          },
-          {
-            "id": "176bff2ba16cae04",
+            "id": "f7721e1f9da69b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,6 +19,42 @@
               },
               "icon": "lucide-file",
               "title": "Math Table of Content"
+            }
+          },
+          {
+            "id": "cecefd1ad59bddd2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Math/Class work/21.10.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "21.10.26"
+            }
+          },
+          {
+            "id": "63de0aa662e70e3a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Russian/Home work/Герои Нашего Времени Вопросы.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Герои Нашего Времени Вопросы"
+            }
+          },
+          {
+            "id": "f84c8e04d681d74e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Russian/Class work/3.11.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3.11.26"
             }
           }
         ],
@@ -108,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.59765625
+    "width": 303.59765625,
+    "collapsed": true
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -321,35 +334,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "176bff2ba16cae04",
+  "active": "63de0aa662e70e3a",
   "lastOpenFiles": [
-    "School/Phisics/Class work/Cohot.md",
-    "School/Math/Class work/25.10.26.md",
-    "School/Math/Class work/26.10.26.md",
-    "School/Math/Math Table of Content.md",
-    "School/Math/Class work/20.10.26.md",
+    "Excalidraw/Герои Нашего Времени Багрут Вопросы.md",
     "School/Math/Class work/21.10.26.md",
+    "School/Math/Math Table of Content.md",
+    "School/Russian/Class work/3.11.26.md",
+    "School/Russian/Home work/Герои Нашего Времени Вопросы.md",
+    "Excalidraw/Istabrut bagrut homework lehagasha.md",
+    "School/Math/Class work/25.10.26.md",
+    "School/English/Home work/2.11.26.md",
+    "School/English/Class work/3.11.26.md",
+    "School/English/Home work",
+    "School/English/Class work/19.10.26.md",
+    "Excalidraw/Home work list.md",
+    "School/Phisics/Class work/Cohot.md",
+    "School/Math/Class work/26.10.26.md",
+    "School/Math/Class work/20.10.26.md",
     "School/Math/Home work/21.10.26.md",
     "School/Math/Home work/21.10.26.md",
     "School/Math/Home work/7.10.26.md",
     "School/Math/Home work/Noshat Bernoli.md",
     "School/Literature/28.10.26.md",
-    "Excalidraw/Home work list.md",
     "Excalidraw/History classroom homework.md",
-    "School/English/Class work/2.11.26.md",
     "School/Phisics/Class work/18-19.10.26.md",
-    "Excalidraw/Istabrut bagrut homework lehagasha.md",
     "Plugins make Obsidian special for you.md",
     "conflict-files-obsidian-git.md",
-    "School/Russian/Home work/Drawing 2026-10-27 20.44.47.excalidraw.md",
     "School/Russian/Class work/5 Vishnevi Sad questions.md",
     "Excalidraw/Tanah classroom work 20.10.md",
     "Excalidraw/Drawing 2026-10-26 10.48.19.excalidraw.md",
-    "Excalidraw/Gubka bob.md",
     "School/Literature",
-    "School/Math/Class work/6.10.26.md",
-    "School/Math/Class work/7.10.26.md",
-    "School/Math/Class work/Sidra Andasit.md",
     "Excalidraw",
     "Attachments/{E2930F78-FC3D-4571-B9B9-EFF9AC2805AE}.png",
     "Attachments/{CACA4C89-841E-415E-A909-F55DC2FA775E}.png",
@@ -361,7 +375,6 @@
     "Education/Math",
     "Education/History/Class work",
     "Education/History",
-    "Education/English/Class work",
     "Attachments/Pasted Image 20261008100801_919.png",
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
