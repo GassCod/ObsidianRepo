@@ -8,17 +8,18 @@
 >   > Рекуррентная форма прогрессии ($a_{n+1} = a_n \cdot q$), доказательство постоянства $q$ через $\frac{a_{n+1}}{a_n}$ и задача на свойство $b^2 = a \cdot c$ через квадратное уравнение.
 >   > Home Work:  <a href="Home work/21.10.26" class="internal-link" target="_blank">**21.10.26**</a>
 > - <a href="Class work/25.10.26" class="internal-link" target="_blank">**25.10.26**</a> 
->   > Краткое описание: 2 формулы + 3 комплексные задачи на закрепление.
+>   > Сумма геометрической прогрессии ($S_n$): формулы $S_n = \frac{a_1(q^n - 1)}{q - 1}$ и $S_n = \frac{a_n q - a_1}{q - 1}$, нахождение $n$, $q$ и $a_1$ по известной сумме.
 >   > Home Work:  ---
 >  - <a href="Class work/26.10.26" class="internal-link" target="_blank">**26.10.26**</a> 
->   > Краткое описание: 2 формулы + 3 комплексные задачи на закрепление.
+>   > Задачки по сумме сидры андасит
 >   > Home Work:  ---
 
-> [!abstract]- 🔬 Тема 2: [ Sidra Andasit]
-> - <a href="2026-10-19" class="internal-link" target="_blank">**2026-10-19**</a> — `[📐 Формулы]` **[Подтема]**
->   > Краткое описание: конспект теории, законы, ограничения применимости.
-> - <a href="2026-10-21" class="internal-link" target="_blank">**2026-10-21**</a> — `[✏️ Задачи]` **[Подтема]**
->   > Краткое описание: разбор задач повышенной сложности из домашней работы.
+> [!abstract]- Istabrut
+> - <a href="Home work/Noshat Bernoli" class="internal-link" target="_blank">**Noshat Bernoli**</a> 
+>   > Noshat bernoli + домашняя работа по ней
+> -  
+>   > Home work: <a href="Home work/7.10.26" class="internal-link" target="_blank">**7.10.26**</a>
+>   > Задачи на дерево
 
 > [!abstract]- 💡 Тема 3: [Название темы]
 > - <a href="2026-10-26" class="internal-link" target="_blank">**2026-10-26**</a> — `[⚡ Микс]` **[Подтема]**
