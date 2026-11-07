@@ -11,28 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Math/Home work/19.10.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "19.10.26"
-            }
-          },
-          {
-            "id": "72057ccbf301f94a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Istabrut bagrut homework lehagasha.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Istabrut bagrut homework lehagasha"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,10 +251,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72057ccbf301f94a",
+  "active": "65499abe55ad3bb0",
   "lastOpenFiles": [
-    "School/Math/Home work/19.10.26.md",
     "Excalidraw/Istabrut bagrut homework lehagasha.md",
+    "School/Math/Home work/19.10.26.md",
     "Excalidraw/Drawing 2026-10-29 22.42.16.excalidraw.md",
     "School/Math/Class work/6.10.26.md",
     "School/Math/Home work/7.10.26.md",
