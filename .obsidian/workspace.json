@@ -11,66 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Literature/28.10.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "28.10.26"
-            }
-          },
-          {
-            "id": "879e0548b1316373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Phisics/Phisics table of content.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Phisics table of content"
-            }
-          },
-          {
-            "id": "4796038ab7d605f0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Phisics/Class work/18-19.10.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "18-19.10.26"
-            }
-          },
-          {
-            "id": "a1ba651fdc6d48b6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Phisics/Class work/Cohot tasks.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Cohot tasks"
-            }
-          },
-          {
-            "id": "449d3e55e1b91f7c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-04 13.41.08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-04 13.41.08.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -345,11 +292,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "879e0548b1316373",
+  "active": "700df3e413e4eaf1",
   "lastOpenFiles": [
+    "School/Phisics/Phisics table of content.md",
     "School/Phisics/Class work/Cohot tasks.md",
     "School/Phisics/Class work/18-19.10.26.md",
-    "School/Phisics/Phisics table of content.md",
     "School/Math/Class work/25.10.26.md",
     "School/Phisics/Class work/Hok Huk.md",
     "Excalidraw/Drawing 2026-11-04 13.41.08.excalidraw.md",
