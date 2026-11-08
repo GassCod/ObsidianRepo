@@ -11,14 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Phisics/Class work/11.08.26.md"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "excalidraw-icon",
+              "title": "11.08.26"
+            }
+          },
+          {
+            "id": "af7570002e0b7484",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Math/Class work/8.11.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "8.11.26"
             }
           }
         ]
@@ -83,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.59765625
+    "width": 303.59765625,
+    "collapsed": true
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -296,11 +307,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d70a85fba8404fa6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "rust_binary_parser_notes.md",
+    "School/Math/Class work/8.11.26.md",
+    "Excalidraw/Drawing 2026-11-08 16.45.42.excalidraw.md",
+    "School/Phisics/Class work/11.08.26.md",
     "School/Math/Home work/7.11.26.md",
+    "School/Math/Home work/21.10.26.md",
+    "Excalidraw/Drawing 2026-11-08 15.10.22.excalidraw.md",
+    "patch-excalidraw-grid.py",
+    "School/Math/Math Table of Content.md",
+    "School/Math/Class work/Sidra Andasit.md",
+    "rust_binary_parser_notes.md",
+    "School/Math/Home work/7.10.26.md",
+    "conflict-files-obsidian-git.md",
     "Attachments/photo_6014754884193816355_y.jpg",
     "School/Phisics/Phisics table of content.md",
     "School/Phisics/Class work/Cohot tasks.md",
@@ -310,21 +330,13 @@
     "Excalidraw/Drawing 2026-11-04 13.41.08.excalidraw.md",
     "Plugins make Obsidian special for you.md",
     "School/Phisics/Class work/Cohot 1.md",
-    "School/Math/Math Table of Content.md",
     "Excalidraw/Gubka bob.md",
-    "School/Math/Home work/7.10.26.md",
-    "School/Math/Home work/21.10.26.md",
     "School/Math/Home work/Noshat Bernoli.md",
     "School/Literature/28.10.26.md",
     "School/Math/Home work/HomeWorkSukkot.md",
     "School/Math/Class work/20.10.26.md",
     "School/Math/Class work/26.10.26.md",
     "School/Lashon/Class work/8.10.26.md",
-    "School/Russian/Home work/Герои Нашего Времени Вопросы.md",
-    "Excalidraw/Герои Нашего Времени Багрут Вопросы.md",
-    "School/Math/Class work/21.10.26.md",
-    "School/Russian/Class work/3.11.26.md",
-    "Excalidraw/Istabrut bagrut homework lehagasha.md",
     "School/English/Home work",
     "School/Literature",
     "Excalidraw",
@@ -337,7 +349,6 @@
     "Education/Math/Class work",
     "Education/Math",
     "Education/History/Class work",
-    "Education/History",
     "Attachments/Pasted Image 20261008100801_919.png",
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",

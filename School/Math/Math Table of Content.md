@@ -12,7 +12,11 @@
 >   > Home Work:  ---
 >  - <a href="Class work/26.10.26" class="internal-link" target="_blank">**26.10.26**</a> 
 >   > Задачки по сумме сидры андасит
->   > Home Work:  ---
+>   > Home Work:  <a href="Home work/7.11.26" class="internal-link" target="_blank">**7.11.26**</a> 
+>   
+>   - <a href="Class work/8.11.26" class="internal-link" target="_blank">**8.11.26**</a> 
+>   > Сумма первой и последней половины в сидре андасит и сумма четных и нечетных элементов
+>   > Home Work:  <a href="" class="internal-link" target="_blank">**---**</a> 
 
 > [!abstract]- Istabrut
 > - <a href="Home work/Noshat Bernoli" class="internal-link" target="_blank">**Noshat Bernoli**</a> 
