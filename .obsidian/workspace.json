@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -292,8 +296,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "700df3e413e4eaf1",
+  "active": "d70a85fba8404fa6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "rust_binary_parser_notes.md",
+    "School/Math/Home work/7.11.26.md",
+    "Attachments/photo_6014754884193816355_y.jpg",
     "School/Phisics/Phisics table of content.md",
     "School/Phisics/Class work/Cohot tasks.md",
     "School/Phisics/Class work/18-19.10.26.md",
@@ -317,10 +325,7 @@
     "School/Math/Class work/21.10.26.md",
     "School/Russian/Class work/3.11.26.md",
     "Excalidraw/Istabrut bagrut homework lehagasha.md",
-    "School/English/Home work/2.11.26.md",
-    "School/English/Class work/3.11.26.md",
     "School/English/Home work",
-    "School/English/Class work/19.10.26.md",
     "School/Literature",
     "Excalidraw",
     "Attachments/{E2930F78-FC3D-4571-B9B9-EFF9AC2805AE}.png",
@@ -339,7 +344,6 @@
     "Attachments/{12519CE3-2C00-41E5-81FE-2AC008428F02}.png",
     "Attachments/{0701ED17-DACD-48B7-875A-B36ECFEF8CD0}.png",
     "Attachments/{6451B08A-C245-4B90-9E69-D6F088DA251E}.png",
-    "Attachments/{307B2BA6-9B51-4543-ACEF-8276BB50B039}.png",
     "Untitled.canvas"
   ]
 }
