@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "783f2cccd3165099",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c25d401b74418fd4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "School/Math/Class work/Sidra Andasit.md"
+                "file": "School/Home work list.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Sidra Andasit"
-            }
-          },
-          {
-            "id": "dd2f467b34f410a0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Math/Class work/9.11.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "9.11.26"
-            }
-          },
-          {
-            "id": "1306a823341498fc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Math/Class work/9.11.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "9.11.26"
+              "icon": "lucide-file",
+              "title": "Home work list"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,56 +171,6 @@
             }
           },
           {
-            "id": "65499abe55ad3bb0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "846e17390a2e6f84",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "f2eed52a022d1816",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "fd2def4f54c467e3",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "dictionary-view"
-            }
-          },
-          {
-            "id": "737ed2393469a91b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
             "id": "d70a85fba8404fa6",
             "type": "leaf",
             "state": {
@@ -251,16 +178,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "70125e3a42bed62c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
             }
           },
           {
@@ -274,29 +191,9 @@
               "icon": "lucide-info",
               "title": "File properties"
             }
-          },
-          {
-            "id": "7076b81c0aa96cf0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "91d66ac61440684d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -319,13 +216,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1306a823341498fc",
+  "active": "c25d401b74418fd4",
   "lastOpenFiles": [
+    "School/Home work list.md",
+    "Excalidraw/Home work list.md",
+    "Excalidraw/Drawing 2026-11-04 13.41.08.excalidraw.md",
+    "School/History/Class work/9.11.26.md",
+    "School/Russian/Class work/Герои Нашего Времени Багрут Вопросы.md",
+    "School/History/Home work",
+    "School/Tanah/Class work",
+    "School/Tanah",
+    "School/Russian/Russian Table of Content.md",
+    "School/Phisics/Phisics table of content.md",
     "School/Math/Math Table of Content.md",
-    "School/Math/Class work/8.11.26.md",
+    "School/Literature/Literature Table of Content.md",
+    "School/Lashon/Lashon Table of Content.md",
+    "School/History/History Table of Content.md",
+    "School/English/English Table of Content.md",
+    "School/Literature/9.11.26.md",
     "School/Math/Class work/9.11.26.md",
+    "School/Math/Class work/8.11.26.md",
     "School/Math/Class work/Sidra Andasit.md",
-    "Excalidraw/Drawing 2026-11-09 10.22.01.excalidraw.md",
     "School/English/Class work/11.08.26.md",
     "School/English/Class work/3.11.26.md",
     "__pycache__/patch-excalidraw.cpython-313.pyc",
@@ -340,27 +251,13 @@
     "School/Math/Home work/21.10.26.md",
     "patch-excalidraw-grid.py",
     "rust_binary_parser_notes.md",
-    "School/Math/Home work/7.10.26.md",
-    "conflict-files-obsidian-git.md",
     "Attachments/photo_6014754884193816355_y.jpg",
-    "School/Phisics/Phisics table of content.md",
-    "School/Phisics/Class work/Cohot tasks.md",
-    "School/Phisics/Class work/18-19.10.26.md",
-    "School/Math/Class work/25.10.26.md",
-    "School/Phisics/Class work/Hok Huk.md",
-    "Excalidraw/Drawing 2026-11-04 13.41.08.excalidraw.md",
-    "Plugins make Obsidian special for you.md",
-    "School/Phisics/Class work/Cohot 1.md",
-    "Excalidraw/Gubka bob.md",
     "School/English/Home work",
     "School/Literature",
     "Excalidraw",
     "Attachments/{E2930F78-FC3D-4571-B9B9-EFF9AC2805AE}.png",
     "Attachments/{CACA4C89-841E-415E-A909-F55DC2FA775E}.png",
     "Attachments/photo_5958611252089131359_y.jpg",
-    "Education/Russian/Home work",
-    "Education/Russian",
-    "Education/Math/Home work",
     "Attachments/Pasted Image 20261008100801_919.png",
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
