@@ -1,0 +1,9 @@
+{
+  "id": "school-organizer",
+  "name": "School Organizer",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Auto-organizes school notes into topic folders and updates subject tables of contents.",
+  "author": "Antigravity",
+  "isDesktopOnly": true
+}
