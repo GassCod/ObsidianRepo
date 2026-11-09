@@ -21,7 +21,14 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-git:push",
+      "icon": "lucide-git-pull-request",
+      "name": "Git: Commit-and-sync",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {
