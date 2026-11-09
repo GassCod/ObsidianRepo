@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "School/Phisics/Cohot/Class work/9.11.26.md"
+                "file": "School/Phisics/Phisics table of content.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "9.11.26"
+              "icon": "lucide-file",
+              "title": "Phisics table of content"
             }
           }
         ]
@@ -81,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.59765625,
-    "collapsed": true
+    "width": 303.59765625
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -216,8 +217,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-11-09 17.32.57.excalidraw.md",
     "School/Phisics/Cohot/Class work/9.11.26.md",
+    "Excalidraw/Drawing 2026-11-09 17.32.57.excalidraw.md",
     "Excalidraw/Drawing 2026-11-09 17.25.54.excalidraw.md",
     "Excalidraw/Drawing 2026-11-09 17.25.36.excalidraw.md",
     "School/Phisics/Cohot/Class work/11.08.26.md",

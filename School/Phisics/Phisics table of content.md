@@ -10,6 +10,9 @@
 > - <a href="Cohot/Class work/18-19.10.26" class="internal-link" target="_blank">**18-19.10.26**</a>
 >   > 3-й закон Ньютона ($\vec{F}_{1,2} = -\vec{F}_{2,1}$) и равновесие подвешенного груза: расчет натяжения нитей ($T_1, T_2$).
 >   > Home Work:  ---
+> - <a href="Cohot/Class work/9.11.26" class="internal-link" target="_blank">**9.11.26**</a>
+>   > Занятие по теме Cohot (классная работа).
+>   > Home Work:  ---
 > - <a href="Cohot/Class work/Cohot tasks" class="internal-link" target="_blank">**Cohot tasks**</a>
 >   > Задачки по силам: расчет сил трения, натяжения нитей и условий равновесия тел.
 >   > Home Work:  ---
