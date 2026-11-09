@@ -17,6 +17,9 @@
 >   - <a href="Class work/8.11.26" class="internal-link" target="_blank">**8.11.26**</a> 
 >   > Сумма первой и последней половины в сидре андасит и сумма четных и нечетных элементов
 >   > Home Work:  <a href="" class="internal-link" target="_blank">**---**</a> 
+>- <a href="Class work/9.11.26" class="internal-link" target="_blank">**9.11.26**</a> 
+>   > Сумма первой и последней половины в сидре андасит и сумма четных и нечетных элементов(Задачи 11 и 12 со страници 32)
+>   > Home Work:  <a href="" class="internal-link" target="_blank">**---**</a> 
 
 > [!abstract]- Istabrut
 > - <a href="Home work/Noshat Bernoli" class="internal-link" target="_blank">**Noshat Bernoli**</a> 
