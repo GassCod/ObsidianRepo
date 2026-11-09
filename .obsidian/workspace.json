@@ -239,8 +239,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -319,7 +319,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1306a823341498fc",
+  "active": "d70a85fba8404fa6",
   "lastOpenFiles": [
     "School/Math/Class work/9.11.2690.md",
     "School/Math/Class work/8.11.26.md",
