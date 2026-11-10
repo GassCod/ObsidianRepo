@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Home work list.md",
+                "file": "School/Math/Math Table of Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home work list"
-            }
-          },
-          {
-            "id": "f02bed67e72d95bf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Math/Geometry/Class work/10.11.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "10.11.26"
+              "title": "Math Table of Content"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,12 +215,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "700df3e413e4eaf1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "School/Math/Geometry/Class work",
-    "School/Math/Geometry",
+    "School/Tanah/10.11.26.md",
+    "School/Tanah/ספר בראשית/Class work/10.11.26.md",
     "School/Home work list.md",
     "School/Math/Geometry/Class work/10.11.26.md",
+    "School/Math/Geometry/Class work",
+    "School/Math/Geometry",
     "School/Phisics/Phisics table of content.md",
     "School/Phisics/Cohot/Class work/9.11.26.md",
     "Excalidraw/Drawing 2026-11-09 17.32.57.excalidraw.md",
@@ -260,12 +249,10 @@
     "School/Russian/Русский язык/Class work",
     "School/Russian/Русский язык",
     "School/Russian/Герой нашего времени/Class work/Герои Нашего Времени Багрут Вопросы.md",
-    "School/Russian/Герой нашего времени/Class work",
     "School/Russian/Вишнёвый сад/Class work/6.10.26.md",
     "School/Russian/Вишнёвый сад/Class work/5 Vishnevi Sad questions.md",
     "School/Russian/Полотенце с петухом/Home work/Полотенце с петухом вопросы.md",
     "School/Russian/Герой нашего времени/Home work/Герои Нашего Времени Вопросы.md",
-    "School/Phisics/Cohot/Class work/Cohot tasks.md",
     "Attachments/photo_6014754884193816355_y.jpg",
     "Attachments/{E2930F78-FC3D-4571-B9B9-EFF9AC2805AE}.png",
     "Attachments/{CACA4C89-841E-415E-A909-F55DC2FA775E}.png",
