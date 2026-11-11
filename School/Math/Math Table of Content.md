@@ -39,8 +39,3 @@
 > - <a href="Istabrut/Home work/Noshat Bernoli" class="internal-link" target="_blank">**Noshat Bernoli**</a>
 >   > Формула Бернулли (נוסחת ברנולי) для повторных независимых испытаний и домашняя работа по ней.
 >   > Home Work:  ---
-
-> [!abstract]- Geometry
-> - <a href="Geometry/Class work/10.11.26" class="internal-link" target="_blank">**10.11.26**</a>
->   > Занятие по теме Geometry (классная работа).
->   > Home Work:  ---

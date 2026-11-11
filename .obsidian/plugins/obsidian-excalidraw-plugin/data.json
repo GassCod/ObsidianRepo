@@ -210,7 +210,7 @@
       "type": "highlighter",
       "freedrawOnly": true,
       "fillStyle": "solid",
-      "strokeWidth": 3.5,
+      "strokeWidth": 3,
       "roughness": null,
       "penOptions": {
         "highlighter": true,
@@ -243,7 +243,7 @@
       "strokeColor": "#ff0000",
       "backgroundColor": "#ff0000",
       "fillStyle": "solid",
-      "strokeWidth": 3.5,
+      "strokeWidth": 3,
       "roughness": null,
       "penOptions": {
         "highlighter": true,
@@ -274,7 +274,7 @@
       "strokeColor": "#fbff05",
       "backgroundColor": "#fbff05",
       "fillStyle": "solid",
-      "strokeWidth": 3.5,
+      "strokeWidth": 3,
       "roughness": null,
       "penOptions": {
         "highlighter": true,
