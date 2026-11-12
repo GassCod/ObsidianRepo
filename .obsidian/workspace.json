@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "689ad59d82e64da4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School/Geometry/Geometry Table of Content.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Geometry/Общее/Home work/12.11.26.md"
               },
-              "icon": "lucide-file",
-              "title": "Geometry Table of Content"
+              "icon": "excalidraw-icon",
+              "title": "12.11.26"
+            }
+          },
+          {
+            "id": "7e053b3775294b89",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Geometry/Общее/Class work/10.11.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "10.11.26"
             }
           }
         ]
@@ -83,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.59765625
+    "width": 303.59765625,
+    "collapsed": true
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -191,6 +202,16 @@
               "icon": "lucide-info",
               "title": "File properties"
             }
+          },
+          {
+            "id": "3dc9abe8cf439a4f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
         "currentTab": 1
@@ -215,23 +236,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "689ad59d82e64da4",
   "lastOpenFiles": [
-    "School/Geometry/Общее/Class work/11.11.26.md",
-    "School/Home work list.md",
-    "School/Geometry/Class work/10.11.26.md",
     "School/Geometry/Общее/Class work/10.11.26.md",
+    "School/Math/Sidra Andasit/Class work/8.11.26.md",
+    "School/Geometry/Общее/Home work/12.11.26.md",
+    "School/Math/Sidra Andasit/Home work/12.11.26.md",
+    "School/Geometry/Общее/Home work",
+    "School/Math/Sidra Andasit/Class work/Sidra Andasit.md",
+    "School/Math/Sidra Andasit/Class work/9.11.26.md",
+    "School/Math/Math Table of Content.md",
+    "School/Home work list.md",
+    "School/Russian/Русский язык/Class work/10.11.26.md",
+    "Attachments/Scanned Document 8.pdf",
+    "Excalidraw/Drawing 2026-11-11 14.06.36.excalidraw.md",
+    "School/Literature/11.11.26.md",
+    "School/Geometry/Geometry Table of Content.md",
+    "School/Geometry/Общее/Class work/11.11.26.md",
+    "School/Geometry/Class work/10.11.26.md",
     "School/Geometry/Class work/11.11.26.md",
     "School/Geometry/Общее/Class work",
     "School/Geometry/Общее",
-    "School/Geometry/Geometry Table of Content.md",
     "School/Geometry/Class work",
     "School/Lashon/Lashon Table of Content.md",
     "School/Lashon/11.11.26.md",
     "School/Lashon/אוצר מילים והבנת הנקרא/Class work/11.11.26.md",
     "Attachments/Scanned Document 7.pdf",
-    "School/Russian/Русский язык/Class work/10.11.26.md",
-    "School/Math/Math Table of Content.md",
     "School/Tanah/10.11.26.md",
     "School/Tanah/ספר בראשית/Class work/10.11.26.md",
     "School/Geometry/Class work",
@@ -244,15 +274,6 @@
     "School/Phisics/Cohot/Class work/11.08.26.md",
     "__pycache__/organize_school.cpython-313.pyc",
     "__pycache__",
-    "Templates/Template.excalidraw.md",
-    "Excalidraw/Drawing 2026-11-09 17.02.15.excalidraw.md",
-    "School/Russian/Russian Table of Content.md",
-    "School/History/הסדר החדש באירופה/Class work/16.11.26.md",
-    "School/History/Class work/16.11.26.md",
-    "School/History/Class work",
-    "School/History/הסדר החדש באירופה/Home work/History classroom homework.md",
-    "School/History/הסדר החדש באירופה/Home work",
-    "School/Math/Sidra Andasit/Home work/7.11.26.md",
     "Attachments/photo_6014754884193816355_y.jpg",
     "Attachments/{E2930F78-FC3D-4571-B9B9-EFF9AC2805AE}.png",
     "Attachments/{CACA4C89-841E-415E-A909-F55DC2FA775E}.png",
