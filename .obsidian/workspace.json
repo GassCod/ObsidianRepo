@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "01e6a9779100d550",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c79669a80a3224bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Geometry/Общее/Home work/12.11.26.md"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "excalidraw-icon",
+              "title": "12.11.26"
+            }
+          },
+          {
+            "id": "11c3bc9cb853647c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Geometry/Общее/Class work/10.11.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "10.11.26"
             }
           }
         ]
@@ -83,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -253,8 +264,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d70a85fba8404fa6",
+  "active": "c79669a80a3224bf",
   "lastOpenFiles": [
+    "School/Geometry/Общее/Class work/10.11.26.md",
+    "School/Geometry/Общее/Home work/12.11.26.md",
+    "School/Geometry/Geometry Table of Content.md",
+    "School/Math/Math Table of Content.md",
+    "School/Math/Sidra Andasit/Home work/12.11.26.md",
     "conflict-files-obsidian-git.md",
     "patch-excalidraw.py",
     "patch-excalidraw-grid.py",
@@ -286,11 +302,6 @@
     "School/Phisics/Cohot/Class work/Cohot 1.md",
     "School/Phisics/Cohot/Class work/9.11.26.md",
     "School/Phisics/Cohot/Class work/18-19.10.26.md",
-    "School/Phisics/Cohot/Class work/11.08.26.md",
-    "School/Math/Sidra Andasit/Home work/7.11.26.md",
-    "School/Math/Sidra Andasit/Home work/21.10.26.md",
-    "School/Math/Sidra Andasit/Home work/12.11.26.md",
-    "School/Math/Sidra Andasit/Class work/Sidra Andasit.md",
     "Attachments/photo_6014754884193816355_y.jpg",
     "Attachments/photo_5958611252089131359_y.jpg",
     "Attachments/{E2930F78-FC3D-4571-B9B9-EFF9AC2805AE}.png",
