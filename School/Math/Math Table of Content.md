@@ -21,7 +21,7 @@
 >   > Home Work:  ---
 > - <a href="Sidra Andasit/Class work/9.11.26" class="internal-link" target="_blank">**9.11.26**</a>
 >   > Сумма первой и последней половины в сидре андасит и сумма четных и нечетных элементов (задачи 11 и 12 со страницы 32).
->   > Home Work:  ---
+>   > Home Work:  <a href="Sidra Andasit/Home work/12.11.26" class="internal-link" target="_blank">**12.11.26**</a>
 
 > [!abstract]- Istabrut
 > - <a href="Istabrut/Class work/6.10.26" class="internal-link" target="_blank">**6.10.26**</a>
