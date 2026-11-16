@@ -54,7 +54,7 @@ class SchoolOrganizerPlugin extends Plugin {
             const excal = this.app.plugins.plugins['obsidian-excalidraw-plugin'];
             if (!excal) return;
 
-            // 1. Ensure template file path and zoomToFitOnOpen settings
+            // 1. Ensure template file path, zoomToFitOnOpen settings and customPens roughness = 0
             if (excal.settings) {
                 let changed = false;
                 if (excal.settings.templateFilePath !== 'Templates/Template.excalidraw.md') {
@@ -64,6 +64,14 @@ class SchoolOrganizerPlugin extends Plugin {
                 if (excal.settings.zoomToFitOnOpen !== false) {
                     excal.settings.zoomToFitOnOpen = false;
                     changed = true;
+                }
+                if (Array.isArray(excal.settings.customPens)) {
+                    for (const pen of excal.settings.customPens) {
+                        if (pen.roughness !== 0) {
+                            pen.roughness = 0;
+                            changed = true;
+                        }
+                    }
                 }
                 if (changed && typeof excal.saveSettings === 'function') {
                     await excal.saveSettings();
@@ -84,7 +92,8 @@ class SchoolOrganizerPlugin extends Plugin {
                 };
             }
 
-            // 3. Listen on active-leaf-change for empty/new drawings
+            // 3. Listen on active-leaf-change: enforce pencil & 150% zoom on new/blank drawings,
+            // and ensure currentItemRoughness: 0 (Architect / Sloppiness = 0) for all shapes and brushes
             this.registerEvent(
                 this.app.workspace.on('active-leaf-change', (leaf) => {
                     if (!leaf || !leaf.view || leaf.view.getViewType() !== 'excalidraw') return;
@@ -96,6 +105,16 @@ class SchoolOrganizerPlugin extends Plugin {
                             const nonDeleted = elements.filter(el => !el.isDeleted);
                             if (nonDeleted.length === 0) {
                                 this.applyExcalidrawPencilAndZoom(view);
+                            } else {
+                                const appState = view.excalidrawAPI.getAppState?.();
+                                if (appState && (appState.currentItemRoughness !== 0 || appState.currentItemRoundness !== 'sharp')) {
+                                    view.excalidrawAPI.updateScene({
+                                        appState: {
+                                            currentItemRoughness: 0,
+                                            currentItemRoundness: 'sharp'
+                                        }
+                                    });
+                                }
                             }
                         } catch (err) {
                             console.error('School Organizer: error on leaf change check:', err);
@@ -130,7 +149,8 @@ class SchoolOrganizerPlugin extends Plugin {
                     currentItemStrokeWidthKey: 'extraThin',
                     currentItemStrokeVariability: 'variable',
                     currentItemStrokeStyle: 'solid',
-                    currentItemRoughness: 1,
+                    currentItemRoughness: 0,
+                    currentItemRoundness: 'sharp',
                     currentItemOpacity: 100,
                     currentStrokeOptions: {
                         variability: 'variable',

@@ -28,7 +28,7 @@ tags: [excalidraw]
 		"currentItemStrokeWidthKey": "extraThin",
 		"currentItemStrokeVariability": "variable",
 		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 5,
 		"currentItemFontSize": 20,
@@ -42,7 +42,7 @@ tags: [excalidraw]
 		"zoom": {
 			"value": 1.5
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": 35,
 		"gridStep": 5,
 		"gridModeEnabled": true,

@@ -21,3 +21,6 @@
 > - <a href="Vocabulary & Reading/Class work/19.10.26" class="internal-link" target="_blank">**19.10.26**</a>
 >   > Изучение фразовых глаголов (start out, turn down и др.) с подробными дефинициями и контекстными примерами.
 >   > Home Work:  ---
+> - <a href="Vocabulary & Reading/Class work/15.11.26" class="internal-link" target="_blank">**15.11.26**</a>
+>   > - **apparently** — it seems to be true.
+>   > Home Work:  ---
