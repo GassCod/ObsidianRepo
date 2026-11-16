@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "01e6a9779100d550",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c79669a80a3224bf",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Geometry/Общее/Home work/12.11.26.md"
+                "file": "School/Phisics/Cohot/Class work/15.11.26.md"
               },
               "icon": "excalidraw-icon",
-              "title": "12.11.26"
+              "title": "15.11.26"
             }
           },
           {
-            "id": "11c3bc9cb853647c",
+            "id": "182e541a8779bef2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Geometry/Общее/Class work/10.11.26.md"
+                "file": "School/Phisics/Cohot/Class work/16.11.26.md"
               },
               "icon": "excalidraw-icon",
-              "title": "10.11.26"
+              "title": "16.11.26"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,8 +198,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -237,18 +238,20 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "school-organizer:Организовать уроки и обновить оглавление": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -256,18 +259,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c79669a80a3224bf",
+  "active": "182e541a8779bef2",
   "lastOpenFiles": [
-    "School/Geometry/Общее/Class work/10.11.26.md",
+    "Attachments/IMG_3370_0.png",
+    "School/Phisics/Cohot/Class work/16.11.26.md",
+    "Attachments/IMG_3370.png",
+    "Attachments/IMG_3370.heic",
+    "School/Phisics/Cohot/Class work/15.11.26.md",
+    "School/Literature/האדונית והרוכל/Class work/11.11.26.md",
+    "__pycache__/organize_school.cpython-313.pyc",
+    "__pycache__",
+    "School/Home work list.md",
+    "School/Phisics/Cohot/Class work/11.08.26.md",
+    "School/Phisics/Phisics table of content.md",
+    "School/English/Vocabulary & Reading/Class work/15.11.26.md",
+    "School/English/Vocabulary & Reading/Class work/Drawing 2026-11-15 13.24.43.excalidraw.md",
     "School/Geometry/Общее/Home work/12.11.26.md",
+    "School/Geometry/Общее/Class work/10.11.26.md",
     "School/Geometry/Geometry Table of Content.md",
     "School/Math/Math Table of Content.md",
     "School/Math/Sidra Andasit/Home work/12.11.26.md",
@@ -290,18 +303,6 @@
     "School/Russian/Русский язык/Class work/10.11.26.md",
     "School/Russian/Герой нашего времени/Class work/Герои Нашего Времени Багрут Вопросы.md",
     "School/Russian/Полотенце с петухом/Home work/Полотенце с петухом вопросы.md",
-    "School/Russian/Вишнёвый сад/Class work",
-    "School/Russian/Русский язык/Class work",
-    "School/Russian/Герой нашего времени/Home work",
-    "School/Russian/Russian Table of Content.md",
-    "School/Phisics/Piruk vector/Class work/Piruk vektor.md",
-    "School/Phisics/Hok Huk/Class work/Hok Huk.md",
-    "School/Phisics/Hok Huk/Class work/5.10.26.md",
-    "School/Phisics/Cohot/Home work/Phisics Bohan Sukkot prep.md",
-    "School/Phisics/Cohot/Class work/Cohot tasks.md",
-    "School/Phisics/Cohot/Class work/Cohot 1.md",
-    "School/Phisics/Cohot/Class work/9.11.26.md",
-    "School/Phisics/Cohot/Class work/18-19.10.26.md",
     "Attachments/photo_6014754884193816355_y.jpg",
     "Attachments/photo_5958611252089131359_y.jpg",
     "Attachments/{E2930F78-FC3D-4571-B9B9-EFF9AC2805AE}.png",
@@ -310,8 +311,6 @@
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
     "Attachments/{12519CE3-2C00-41E5-81FE-2AC008428F02}.png",
-    "Attachments/{0701ED17-DACD-48B7-875A-B36ECFEF8CD0}.png",
-    "Attachments/{6451B08A-C245-4B90-9E69-D6F088DA251E}.png",
     "Untitled.canvas"
   ]
 }

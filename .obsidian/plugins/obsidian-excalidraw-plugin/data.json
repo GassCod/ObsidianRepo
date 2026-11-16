@@ -211,7 +211,7 @@
       "freedrawOnly": true,
       "fillStyle": "solid",
       "strokeWidth": 3,
-      "roughness": null,
+      "roughness": 0,
       "penOptions": {
         "highlighter": true,
         "constantPressure": true,
@@ -244,7 +244,7 @@
       "backgroundColor": "#ff0000",
       "fillStyle": "solid",
       "strokeWidth": 3,
-      "roughness": null,
+      "roughness": 0,
       "penOptions": {
         "highlighter": true,
         "hasOutline": true,
@@ -275,7 +275,7 @@
       "backgroundColor": "#fbff05",
       "fillStyle": "solid",
       "strokeWidth": 3,
-      "roughness": null,
+      "roughness": 0,
       "penOptions": {
         "highlighter": true,
         "constantPressure": true,
@@ -306,7 +306,7 @@
       "backgroundColor": "#FF7C7C",
       "fillStyle": "dashed",
       "strokeWidth": 2,
-      "roughness": 3,
+      "roughness": 0,
       "penOptions": {
         "highlighter": false,
         "constantPressure": true,
@@ -337,7 +337,7 @@
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
       "strokeWidth": 0,
-      "roughness": null,
+      "roughness": 0,
       "penOptions": {
         "highlighter": true,
         "constantPressure": true,
@@ -368,7 +368,7 @@
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
       "strokeWidth": 0,
-      "roughness": null,
+      "roughness": 0,
       "penOptions": {
         "highlighter": true,
         "constantPressure": true,

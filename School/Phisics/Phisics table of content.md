@@ -13,6 +13,12 @@
 > - <a href="Cohot/Class work/9.11.26" class="internal-link" target="_blank">**9.11.26**</a>
 >   > Занятие по теме Cohot (классная работа).
 >   > Home Work:  ---
+> - <a href="Cohot/Class work/15.11.26" class="internal-link" target="_blank">**15.11.26**</a>
+>   > Занятие по теме Cohot (классная работа).
+>   > Home Work:  ---
+> - <a href="Cohot/Class work/16.11.26" class="internal-link" target="_blank">**16.11.26**</a>
+>   > Занятие по теме Cohot (классная работа).
+>   > Home Work:  ---
 > - <a href="Cohot/Class work/Cohot tasks" class="internal-link" target="_blank">**Cohot tasks**</a>
 >   > Задачки по силам: расчет сил трения, натяжения нитей и условий равновесия тел.
 >   > Home Work:  ---
