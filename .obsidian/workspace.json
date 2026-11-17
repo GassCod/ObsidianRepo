@@ -11,28 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "School/Phisics/Cohot/Class work/15.11.26.md"
+                "file": "School/English/Vocabulary & Reading/Class work/15.11.26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "15.11.26"
             }
-          },
-          {
-            "id": "182e541a8779bef2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Phisics/Cohot/Class work/16.11.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "16.11.26"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -246,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,17 +251,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "182e541a8779bef2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Attachments/IMG_3370_0.png",
+    "School/English/English Table of Content.md",
+    "School/Home work list.md",
     "School/Phisics/Cohot/Class work/16.11.26.md",
+    "Attachments/IMG_3370_0.png",
     "Attachments/IMG_3370.png",
     "Attachments/IMG_3370.heic",
     "School/Phisics/Cohot/Class work/15.11.26.md",
     "School/Literature/האדונית והרוכל/Class work/11.11.26.md",
     "__pycache__/organize_school.cpython-313.pyc",
     "__pycache__",
-    "School/Home work list.md",
     "School/Phisics/Cohot/Class work/11.08.26.md",
     "School/Phisics/Phisics table of content.md",
     "School/English/Vocabulary & Reading/Class work/15.11.26.md",
