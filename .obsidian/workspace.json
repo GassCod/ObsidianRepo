@@ -8,20 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "94e16c56b987cebf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School/English/Vocabulary & Reading/Class work/15.11.26.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Math/Sidra Andasit/Class work/8.11.26.md"
               },
-              "icon": "lucide-file",
-              "title": "15.11.26"
+              "icon": "excalidraw-icon",
+              "title": "8.11.26"
+            }
+          },
+          {
+            "id": "7d3f043f003f5fb0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Math/Sidra Andasit/Class work/17.11.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "17.11.26"
+            }
+          },
+          {
+            "id": "a4d5a6f7ef4bd7ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Robotics/Python Snap-Script concept.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Python Snap-Script concept"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -234,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,8 +276,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7d3f043f003f5fb0",
   "lastOpenFiles": [
+    "School/Math/Sidra Andasit/Class work/8.11.26.md",
+    "School/Math/Sidra Andasit/Class work/17.11.26.md",
+    "Robotics/Python Snap-Script concept.md",
+    "School/Math/Math Table of Content.md",
+    "School/Math/Sidra Andasit/Home work/12.11.26.md",
+    "School/Geometry/Общее/Home work/12.11.26.md",
+    "School/English/Vocabulary & Reading/Class work/17.11.26.md",
+    "School/English/Vocabulary & Reading/Class work/15.11.26.md",
+    "Attachments/Gemini_Generated_Image_yxflr4yxflr4yxfl.jpeg",
+    "Robotics",
     "School/English/English Table of Content.md",
     "School/Home work list.md",
     "School/Phisics/Cohot/Class work/16.11.26.md",
@@ -265,13 +300,9 @@
     "__pycache__",
     "School/Phisics/Cohot/Class work/11.08.26.md",
     "School/Phisics/Phisics table of content.md",
-    "School/English/Vocabulary & Reading/Class work/15.11.26.md",
     "School/English/Vocabulary & Reading/Class work/Drawing 2026-11-15 13.24.43.excalidraw.md",
-    "School/Geometry/Общее/Home work/12.11.26.md",
     "School/Geometry/Общее/Class work/10.11.26.md",
     "School/Geometry/Geometry Table of Content.md",
-    "School/Math/Math Table of Content.md",
-    "School/Math/Sidra Andasit/Home work/12.11.26.md",
     "conflict-files-obsidian-git.md",
     "patch-excalidraw.py",
     "patch-excalidraw-grid.py",
@@ -283,14 +314,9 @@
     "School/Tanah/ספר בראשית/Class work",
     "School/Tanah/ספר בראשית",
     "School/Tanah/Tanah Table of Content.md",
-    "School/Tanah",
     "School/Russian/Вишнёвый сад/Class work/6.10.26.md",
     "School/Russian/Вишнёвый сад/Class work/5 Vishnevi Sad questions.md",
     "School/Russian/Русский язык/Class work/3.11.26.md",
-    "School/Russian/Герой нашего времени/Home work/Герои Нашего Времени Вопросы.md",
-    "School/Russian/Русский язык/Class work/10.11.26.md",
-    "School/Russian/Герой нашего времени/Class work/Герои Нашего Времени Багрут Вопросы.md",
-    "School/Russian/Полотенце с петухом/Home work/Полотенце с петухом вопросы.md",
     "Attachments/photo_6014754884193816355_y.jpg",
     "Attachments/photo_5958611252089131359_y.jpg",
     "Attachments/{E2930F78-FC3D-4571-B9B9-EFF9AC2805AE}.png",
@@ -298,7 +324,6 @@
     "Attachments/Pasted Image 20261008100801_919.png",
     "Attachments/{85ED233A-73DB-4FC6-B82A-310A8B1CB74E}.png",
     "Attachments/{975A1D89-D3DC-48C6-9411-E535CD03D175}.png",
-    "Attachments/{12519CE3-2C00-41E5-81FE-2AC008428F02}.png",
     "Untitled.canvas"
   ]
 }
