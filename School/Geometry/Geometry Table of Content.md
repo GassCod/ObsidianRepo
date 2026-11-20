@@ -10,3 +10,6 @@
 > - <a href="Общее/Home work/12.11.26" class="internal-link" target="_blank">**12.11.26**</a>
 >   > Занятие по теме Общее (домашняя работа).
 >   > Home Work:  ---
+> - <a href="Общее/Home work/20.11.26" class="internal-link" target="_blank">**20.11.26**</a>
+>   > Занятие по теме Общее (домашняя работа).
+>   > Home Work:  ---

@@ -7,3 +7,6 @@
 > - <a href="ספר בראשית/Class work/10.11.26" class="internal-link" target="_blank">**10.11.26**</a>
 >   > Занятие по теме ספר בראשית (классная работа).
 >   > Home Work:  ---
+> - <a href="ספר בראשית/Class work/17.11.26" class="internal-link" target="_blank">**17.11.26**</a>
+>   > b7efbe53347622339679b5238ad2aa7ac38447b8: [[WhatsApp Image 2026-11-17 at 17.53.06.jpeg]] %%.
+>   > Home Work:  ---

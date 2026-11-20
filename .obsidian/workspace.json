@@ -13,28 +13,38 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-11-11 14.06.36.excalidraw.md"
+                "file": "School/Geometry/Общее/Home work/20.11.26.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-11 14.06.36.excalidraw"
+              "title": "20.11.26"
             }
           },
           {
-            "id": "fc1ce6c21316c58b",
+            "id": "3be8519b427d4fa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Math/Sidra Andasit/Home work/20.11.26.md"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "excalidraw-icon",
+              "title": "20.11.26"
+            }
+          },
+          {
+            "id": "f29e817a18736c67",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Math/Sidra Andasit/Class work/17.11.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "17.11.26"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "13bad3924cb6b393",
@@ -247,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,12 +276,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc1ce6c21316c58b",
+  "active": "f29e817a18736c67",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-11-11 14.06.36.excalidraw.md",
+    "School/Math/Sidra Andasit/Home work/20.11.26.md",
+    "School/Math/Sidra Andasit/Class work/17.11.26.md",
+    "School/Geometry/Общее/Home work/20.11.26.md",
+    "School/Math/Math Table of Content.md",
+    "School/Math/Sidra Andasit/Home work/12.11.26.md",
     "conflict-files-obsidian-git.md",
     "School/Tanah/ספר בראשית/Class work/17.11.26.md",
-    "School/Math/Sidra Andasit/Class work/17.11.26.md",
     "School/English/Vocabulary & Reading/Class work/17.11.26.md",
     "Robotics/Python Snap-Script concept.md",
     "Attachments/WhatsApp Image 2026-11-17 at 17.53.06.jpeg",
@@ -285,8 +300,6 @@
     "School/Geometry/Общее/Home work/12.11.26.md",
     "School/Geometry/Общее/Class work/10.11.26.md",
     "School/Geometry/Geometry Table of Content.md",
-    "School/Math/Math Table of Content.md",
-    "School/Math/Sidra Andasit/Home work/12.11.26.md",
     "patch-excalidraw.py",
     "patch-excalidraw-grid.py",
     "organize_school.py",
@@ -304,7 +317,6 @@
     "School/Russian/Герой нашего времени/Home work/Герои Нашего Времени Вопросы.md",
     "School/Russian/Русский язык/Class work/10.11.26.md",
     "School/Russian/Герой нашего времени/Class work/Герои Нашего Времени Багрут Вопросы.md",
-    "School/Russian/Полотенце с петухом/Home work/Полотенце с петухом вопросы.md",
     "School/Russian/Вишнёвый сад/Class work",
     "Attachments/photo_6014754884193816355_y.jpg",
     "Attachments/photo_5958611252089131359_y.jpg",
