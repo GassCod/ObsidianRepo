@@ -35,16 +35,30 @@
             "id": "f29e817a18736c67",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Math/Math Table of Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Math Table of Content"
+            }
+          },
+          {
+            "id": "3e9bf963ad4a2e03",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Math/Sidra Andasit/Class work/17.11.26.md"
+                "file": "Robotics/Python Snap-Script concept.md"
               },
               "icon": "excalidraw-icon",
-              "title": "17.11.26"
+              "title": "Python Snap-Script concept"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,21 +290,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f29e817a18736c67",
+  "active": "3be8519b427d4fa7",
   "lastOpenFiles": [
+    "Robotics/Python Snap-Script concept.md",
+    "Robotics/Python SnapScript Concept.md",
     "School/Math/Sidra Andasit/Home work/20.11.26.md",
+    "School/Math/Math Table of Content.md",
     "School/Math/Sidra Andasit/Class work/17.11.26.md",
     "School/Geometry/Общее/Home work/20.11.26.md",
-    "School/Math/Math Table of Content.md",
     "School/Math/Sidra Andasit/Home work/12.11.26.md",
     "conflict-files-obsidian-git.md",
     "School/Tanah/ספר בראשית/Class work/17.11.26.md",
     "School/English/Vocabulary & Reading/Class work/17.11.26.md",
-    "Robotics/Python Snap-Script concept.md",
     "Attachments/WhatsApp Image 2026-11-17 at 17.53.06.jpeg",
     "Attachments/Gemini_Generated_Image_yxflr4yxflr4yxfl.jpeg",
     "School/Home work list.md",
-    "Robotics/Python SnapScript Concept.md",
     "Robotics",
     "School/Literature/האדונית והרוכל/Class work/11.11.26.md",
     "School/English/Vocabulary & Reading/Class work/15.11.26.md",
