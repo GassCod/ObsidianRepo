@@ -28,6 +28,12 @@
 > - <a href="Sidra Andasit/Home work/12.11.26" class="internal-link" target="_blank">**12.11.26**</a>
 >   > Занятие по теме Sidra Andasit (домашняя работа).
 >   > Home Work:  ---
+<<<<<<< HEAD
+=======
+> - <a href="Sidra Andasit/Home work/20.11.26" class="internal-link" target="_blank">**20.11.26**</a>
+>   > Занятие по теме Sidra Andasit (домашняя работа).
+>   > Home Work:  ---
+>>>>>>> origin/main
 
 > [!abstract]- Istabrut
 > - <a href="Istabrut/Class work/6.10.26" class="internal-link" target="_blank">**6.10.26**</a>
