@@ -24,3 +24,6 @@
 > - <a href="Vocabulary & Reading/Class work/15.11.26" class="internal-link" target="_blank">**15.11.26**</a>
 >   > - **apparently** — it seems to be true.
 >   > Home Work:  ---
+> - <a href="Vocabulary & Reading/Class work/17.11.26" class="internal-link" target="_blank">**17.11.26**</a>
+>   > In the our *planet* every *generation* was *expected* to *slightly* develop their selves.
+>   > Home Work:  ---

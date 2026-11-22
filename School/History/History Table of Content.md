@@ -6,6 +6,9 @@
 >   > Home Work:  ---
 
 > [!abstract]- הסדר החדש באירופה (Нацистский «новый порядок» в Европе)
+> - <a href="הסדר החדש באירופה/Class work/Drawing 2026-11-18 14.06.13.excalidraw" class="internal-link" target="_blank">**Drawing 2026-11-18 14.06.13.excalidraw**</a>
+>   > Занятие по теме הסדר החדש באירופה (классная работа).
+>   > Home Work:  ---
 > - <a href="הסדר החדש באירופה/Class work/9.11.26" class="internal-link" target="_blank">**9.11.26**</a>
 >   > Организация нацистского «нового порядка» в Европе: реализация расовой идеологии, экономическая эксплуатация и порабощение народов.
 >   > Home Work:  <a href="הסדר החדש באירופה/Home work/History classroom homework" class="internal-link" target="_blank">**History classroom homework**</a>
