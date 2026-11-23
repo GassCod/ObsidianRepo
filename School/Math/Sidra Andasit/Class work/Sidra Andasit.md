@@ -221362,8 +221362,13 @@ tags: [excalidraw]
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
+<<<<<<< HEAD
 		"scrollX": 1232.155747261108,
 		"scrollY": -355.9227465955598,
+=======
+		"scrollX": 1181.3264203380315,
+		"scrollY": 319.35369571213226,
+>>>>>>> origin/main
 		"zoom": {
 			"value": 1.3
 		},
