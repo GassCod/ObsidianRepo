@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Home work list"
             }
+          },
+          {
+            "id": "3d68eb4a20c675c1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Phisics/Cohot/Class work/23.11.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "23.11.26"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,14 +264,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3d68eb4a20c675c1",
   "lastOpenFiles": [
+    "School/Home work list.md",
+    "School/Phisics/Cohot/Class work/23.11.26.md",
     "School/Phisics/Cohot/Class work/22.11.26.md",
     "conflict-files-obsidian-git.md",
     "School/Math/Sidra Andasit/Home work/20.11.26.md",
     "School/Geometry/Общее/Home work/20.11.26.md",
     "Robotics/Python SnapScript Concept.md",
-    "School/Home work list.md",
     "School/Phisics/Cohot/Class work/Cohot 1.md",
     "School/Phisics/Cohot/Class work/9.11.26.md",
     "School/Phisics/Cohot/Class work/15.11.26.md",
@@ -279,7 +293,6 @@
     "School/Literature/האדונית והרוכל/Class work/11.11.26.md",
     "School/Literature/האדונית והרוכל/Class work/11.11.26.md",
     "Attachments/WhatsApp Image 2026-11-11 at 11.27.12.jpeg",
-    "Excalidraw/Gubka bob.md",
     "Attachments/WhatsApp Image 2026-11-17 at 17.53.06.jpeg",
     "Attachments/Gemini_Generated_Image_yxflr4yxflr4yxfl.jpeg",
     "Robotics",
