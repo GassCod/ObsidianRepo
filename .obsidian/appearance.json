@@ -1,5 +1,6 @@
 {
   "cssTheme": "Material Gruvbox",
   "baseFontSize": 18,
-  "showRibbon": true
+  "showRibbon": true,
+  "theme": "system"
 }
