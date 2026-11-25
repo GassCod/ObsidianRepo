@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d68eb4a20c675c1",
+            "id": "99d9736819f82981",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Phisics/Cohot/Class work/23.11.26.md"
+                "file": "School/Math/Sidra Andasit/Class work/25.11.26.md"
               },
               "icon": "excalidraw-icon",
-              "title": "23.11.26"
+              "title": "25.11.26"
             }
           }
         ]
@@ -251,12 +251,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d68eb4a20c675c1",
+  "active": "99d9736819f82981",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "School/Phisics/Cohot/Class work/23.11.26.md",
-    "School/Math/Sidra Andasit/Home work/Preparation to 24.11.26 bohan.md",
+    "School/Math/Sidra Andasit/Class work/25.11.26.md",
+    "School/Lashon/Class work/25.11.26.md",
+    "Attachments/Scanned Document 10.pdf",
     "School/Home work list.md",
+    "School/Math/Sidra Andasit/Class work/8.11.26.md",
+    "Excalidraw/Drawing 2026-11-24 16.51.01.excalidraw.md",
+    "School/Lashon/Class work",
+    "School/Math/Sidra Andasit/Class work/Sidra Andasit.md",
+    "School/Math/Sidra Andasit/Class work/17.11.26.md",
+    "School/Math/Sidra Andasit/Class work/20.10.26.md",
+    "School/Math/Sidra Andasit/Class work/9.11.26.md",
+    "School/Math/Sidra Andasit/Class work/22.11.26.md",
+    "School/Math/Sidra Andasit/Class work/21.10.26.md",
+    "School/Phisics/Cohot/Class work/23.11.26.md",
+    "conflict-files-obsidian-git.md",
+    "School/Math/Sidra Andasit/Home work/Preparation to 24.11.26 bohan.md",
     "School/Phisics/Cohot/Class work/22.11.26.md",
     "School/Math/Sidra Andasit/Home work/20.11.26.md",
     "School/Geometry/Общее/Home work/20.11.26.md",
@@ -268,17 +280,7 @@
     "School/Phisics/Cohot/Class work/18-19.10.26.md",
     "School/Phisics/Cohot/Class work/11.08.26.md",
     "School/Phisics/Cohot/Class work/Cohot tasks.md",
-    "School/Math/Sidra Andasit/Class work/22.11.26.md",
-    "School/Math/Sidra Andasit/Class work/Sidra Andasit.md",
     "School/History/הסדר החדש באירופה/Class work/22.11.26.md",
-    "School/Russian/Русский язык/Class work/18.11.26.md",
-    "School/Russian/Русский язык/Class work/3.11.26.md",
-    "School/Russian/Русский язык/Class work/10.11.26.md",
-    "Excalidraw/Drawing 2026-11-11 14.06.36.excalidraw.md",
-    "School/History/הסדר החדש באירופה/Class work/Drawing 2026-11-18 14.06.13.excalidraw.md",
-    "Robotics/Python Snap-Script concept.md",
-    "School/Literature/האדונית והרוכל/Class work/18.11.26.md",
-    "School/Literature/האדונית והרוכל/Class work/11.11.26.md",
     "Attachments/WhatsApp Image 2026-11-11 at 11.27.12.jpeg",
     "Attachments/WhatsApp Image 2026-11-17 at 17.53.06.jpeg",
     "Attachments/Gemini_Generated_Image_yxflr4yxflr4yxfl.jpeg",
@@ -292,8 +294,6 @@
     "patch-excalidraw-grid.py",
     "organize_school.py",
     "Templates/Template.excalidraw",
-    "School/Tanah/ספר בראשית/Class work",
-    "School/Tanah/ספר בראשית",
     "Attachments/photo_6014754884193816355_y.jpg",
     "Attachments/photo_5958611252089131359_y.jpg",
     "Attachments/{E2930F78-FC3D-4571-B9B9-EFF9AC2805AE}.png",
