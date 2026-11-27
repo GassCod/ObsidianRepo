@@ -11,28 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "School/Math/Sidra Andasit/Class work/17.11.26.md"
+                "file": "School/Home work list.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "17.11.26"
-            }
-          },
-          {
-            "id": "30456d55c430b0eb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Math/Sidra Andasit/Home work/Preparation to 24.11.26 bohan.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Preparation to 24.11.26 bohan"
+              "icon": "lucide-file",
+              "title": "Home work list"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,13 +252,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30456d55c430b0eb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "School/Math/Sidra Andasit/Class work/17.11.26.md",
+    "Excalidraw/Drawing 2026-11-23 23.52.00.excalidraw.md",
+    "School/Geometry/Общее/Class work/10.11.26.md",
+    "School/Geometry/Общее/Class work/11.11.26.md",
+    "School/Home work list.md",
     "School/Math/Sidra Andasit/Home work/Preparation to 24.11.26 bohan.md",
+    "School/Math/Sidra Andasit/Class work/17.11.26.md",
     "School/Math/Math Table of Content.md",
     "School/Math/Sidra Andasit/Class work/Sidra Andasit.md",
-    "School/Home work list.md",
     "School/Math/Sidra Andasit/Home work/20.11.26.md",
     "Robotics/Python Snap-Script concept.md",
     "Robotics/Python SnapScript Concept.md",
@@ -288,7 +279,6 @@
     "Attachments/IMG_3370.png",
     "Attachments/IMG_3370.heic",
     "School/Geometry/Общее/Home work/12.11.26.md",
-    "School/Geometry/Общее/Class work/10.11.26.md",
     "School/Geometry/Geometry Table of Content.md",
     "patch-excalidraw.py",
     "patch-excalidraw-grid.py",
@@ -303,8 +293,6 @@
     "School/Tanah",
     "School/Russian/Вишнёвый сад/Class work/6.10.26.md",
     "School/Russian/Вишнёвый сад/Class work/5 Vishnevi Sad questions.md",
-    "School/Russian/Русский язык/Class work/3.11.26.md",
-    "School/Russian/Герой нашего времени/Home work/Герои Нашего Времени Вопросы.md",
     "School/Russian/Вишнёвый сад/Class work",
     "Attachments/photo_6014754884193816355_y.jpg",
     "Attachments/photo_5958611252089131359_y.jpg",
