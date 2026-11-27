@@ -8,5 +8,8 @@
 >   > Аллегорический смысл произведения: взаимоотношения европейского еврейства и антисемитского окружения накануне Катастрофы.
 >   > Home Work:  ---
 > - <a href="האדונית והרוכל/Class work/11.11.26" class="internal-link" target="_blank">**11.11.26**</a>
+>   > 317fe4f0a5f2ca9b53c29501cb8a8de60cd6fbba: [[WhatsApp Image 2026-11-11 at 11.27.12.jpeg]] %%.
+>   > Home Work:  ---
+> - <a href="האדונית והרוכל/Class work/18.11.26" class="internal-link" target="_blank">**18.11.26**</a>
 >   > Занятие по теме האדונית והרוכל (классная работа).
 >   > Home Work:  ---

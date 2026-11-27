@@ -122743,10 +122743,10 @@ rule 2 ^DOt71t1q
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "elbow",
 		"currentItemFrameRole": null,
-		"scrollX": -92.82565470371401,
-		"scrollY": -236.55371898369032,
+		"scrollX": -22.108314430198647,
+		"scrollY": -316.80468105583043,
 		"zoom": {
-			"value": 1
+			"value": 1.266581
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 35,
