@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Math/Sidra Andasit/Class work/25.11.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "25.11.26"
-            }
-          },
-          {
-            "id": "1171ec93c713bf63",
+            "id": "74ab5757ba620926",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -30,9 +18,20 @@
               "icon": "excalidraw-icon",
               "title": "27.11.26"
             }
+          },
+          {
+            "id": "fe492532d0d0db92",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Math/Sidra Andasit/Class work/25.11.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "25.11.26"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,7 +263,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1171ec93c713bf63",
+  "active": "74ab5757ba620926",
   "lastOpenFiles": [
     "School/Math/Sidra Andasit/Class work/25.11.26.md",
     "School/Math/Sidra Andasit/Home work/27.11.26.md",
